@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		188FBED41EA45FCE00885BB6 /* 详情2.png in Resources */ = {isa = PBXBuildFile; fileRef = 188FBED21EA45FCE00885BB6 /* 详情2.png */; };
+		188FBED51EA45FCE00885BB6 /* 详情1.png in Resources */ = {isa = PBXBuildFile; fileRef = 188FBED31EA45FCE00885BB6 /* 详情1.png */; };
+		188FBED71EA4621700885BB6 /* 淘宝.gif in Resources */ = {isa = PBXBuildFile; fileRef = 188FBED61EA4621700885BB6 /* 淘宝.gif */; };
 		18CA9D681E9F204F002BA922 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 18CA9D671E9F204F002BA922 /* main.m */; };
 		18CA9D6B1E9F204F002BA922 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 18CA9D6A1E9F204F002BA922 /* AppDelegate.m */; };
 		18CA9D6E1E9F204F002BA922 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 18CA9D6D1E9F204F002BA922 /* ViewController.m */; };
@@ -52,6 +55,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		188FBED21EA45FCE00885BB6 /* 详情2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "详情2.png"; sourceTree = "<group>"; };
+		188FBED31EA45FCE00885BB6 /* 详情1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "详情1.png"; sourceTree = "<group>"; };
+		188FBED61EA4621700885BB6 /* 淘宝.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "淘宝.gif"; sourceTree = "<group>"; };
 		18CA9D631E9F204E002BA922 /* TBProductDetail.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TBProductDetail.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		18CA9D671E9F204F002BA922 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		18CA9D691E9F204F002BA922 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -164,6 +170,9 @@
 				18CA9DA31E9F216D002BA922 /* PrefixHeader.h */,
 				18CA9E241E9F279F002BA922 /* UIView+frame.h */,
 				18CA9E251E9F279F002BA922 /* UIView+frame.m */,
+				188FBED21EA45FCE00885BB6 /* 详情2.png */,
+				188FBED31EA45FCE00885BB6 /* 详情1.png */,
+				188FBED61EA4621700885BB6 /* 淘宝.gif */,
 				18CA9D6F1E9F204F002BA922 /* Main.storyboard */,
 				18CA9D721E9F2050002BA922 /* Assets.xcassets */,
 				18CA9D741E9F2050002BA922 /* LaunchScreen.storyboard */,
@@ -357,7 +366,10 @@
 				18CA9DBF1E9F21ED002BA922 /* Info.plist in Resources */,
 				18CA9D761E9F2050002BA922 /* LaunchScreen.storyboard in Resources */,
 				18CA9D731E9F2050002BA922 /* Assets.xcassets in Resources */,
+				188FBED41EA45FCE00885BB6 /* 详情2.png in Resources */,
+				188FBED71EA4621700885BB6 /* 淘宝.gif in Resources */,
 				18CA9D711E9F204F002BA922 /* Main.storyboard in Resources */,
+				188FBED51EA45FCE00885BB6 /* 详情1.png in Resources */,
 				18E357631EA05CB20069A3DE /* product_detail_pull_up@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
