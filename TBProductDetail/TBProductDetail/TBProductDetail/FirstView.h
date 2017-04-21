@@ -12,7 +12,7 @@
 
 // 返回上一级控制器
 - (void)backVC;
-// 点击申请按钮
+// 点击购买按钮
 - (void)clickedApplyButton;
 
 @end

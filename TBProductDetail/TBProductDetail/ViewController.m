@@ -23,6 +23,7 @@
     [self initView];
 }
 
+//创建
 - (void)initView {
     
     UIButton * button = [UIButton buttonWithType:UIButtonTypeCustom];
@@ -34,7 +35,8 @@
     [self.view addSubview:button];
 }
 
-//弹出提示框
+
+//跳转页面
 - (void)clickShow {
     
     TBProductDetailVC * vc = [[TBProductDetailVC alloc]init];

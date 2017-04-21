@@ -189,6 +189,7 @@
     [self.navigationController popViewControllerAnimated:YES];
 }
 
+//购买方法
 - (void)clickedApplyButton{
     
     
